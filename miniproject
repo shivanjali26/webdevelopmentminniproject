@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+    <title>webpage design</title>
+</head>
+<body>
+    <center>
+    <h1 color="grey"><b>WELCOME TO MAHARASHTRA</b></h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo5FMDqWn3ggB8HK88u4t1472U2dZlZ3xtmg&usqp=CAU">
+    <br>
+    <br>
+    <br>
+    <nav>
+        <font size="6">
+        <a href="">HOME</a> |
+        <a href="">MENU</a> |
+        <a href="">DISTRICTS</a> |
+        <a href="">ABOUT US</a>
+        </font>
+    </nav>
+    </center>
+</body>
