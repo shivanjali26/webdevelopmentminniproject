@@ -9,11 +9,21 @@
     <br>
     <br>
     <br>
+    <a class="border p-2 d-block" data-bs-target="#exampleModal" data-bs-toggle="modal" href="#links" title="Honourable Governor of Maharashtra">
+    <img class="img-fluid d-block mb-2" src="https://www.maharashtra.gov.in/Site/Upload/Images/rajyapal.jpg" title="Honourable Governor of Maharashtra" width="250" height="250">
+    "Shri Ramesh Bais Honourable Governor of Maharashtra"
+    </a>
+    <img src="https://www.maharashtra.gov.in/images/keyperson/CM.jpg" width="300" height="300">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNCMsNCEgXjfqqwJlEznmwMjWGNlxVS_LPTA&usqp=CAU" width="300" height="300">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdObOFZvliVMuhZepZH05HFVLb1hBcTgq_Q&usqp=CAU" width="300" height="300">
+    <br>
+    <br>
+    <br>
     <nav>
         <font size="6">
-        <a href="">HOME</a> |
+        <a href="file:///C:/Users/Pccoe/Desktop/FY23O009/homepage.html">HOME</a> |
         <a href="">MENU</a> |
-        <a href="">DISTRICTS</a> |
+        <a href="file:///C:/Users/Pccoe/Desktop/FY23O009/webpage.html/New%20folder/district.html">DISTRICTS</a> |
         <a href="">ABOUT US</a>
         </font>
     </nav>
