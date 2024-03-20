@@ -11,7 +11,6 @@ html,body{
   width: 100%;
   place-items: center;
   background: #f2f2f2;
-  /* background: linear-gradient(-135deg, #c850c0, #4158d0); */
 }
 ::selection{
   background: #4158d0;
@@ -19,7 +18,7 @@ html,body{
 }
 .wrapper{
   width: 380px;
-  background: #fff;
+  background: #120f0f;
   border-radius: 15px;
   box-shadow: 0px 15px 20px rgba(0,0,0,0.1);
 }
@@ -31,7 +30,6 @@ html,body{
   color: #fff;
   user-select: none;
   border-radius: 15px 15px 0 0;
-  background: linear-gradient(-135deg, #c850c0, #4158d0);
 }
 .wrapper form{
   padding: 10px 30px 50px 30px;
@@ -94,7 +92,7 @@ form .content input{
   background: red;
 }
 form .content label{
-  color: #262626;
+  color: #f8f3f3;
   user-select: none;
   padding-left: 5px;
 }
@@ -102,21 +100,21 @@ form .content .pass-link{
   color: "";
 }
 form .field input[type="submit"]{
-  color: #fff;
+  color: #f0f0f5;
   border: none;
   padding-left: 0;
   margin-top: -10px;
   font-size: 20px;
   font-weight: 500;
   cursor: pointer;
-  background: linear-gradient(-135deg, #c850c0, #4158d0);
   transition: all 0.3s ease;
+  background-color: blue;
 }
 form .field input[type="submit"]:active{
   transform: scale(0.95);
 }
 form .signup-link{
-  color: #262626;
+  color: #fbf6f6;
   margin-top: 20px;
   text-align: center;
 }
