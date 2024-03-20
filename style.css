@@ -1,0 +1,83 @@
+.container1 .box {
+    width: 1250px;
+    margin: 50px;
+    display: table;
+}
+
+.container1 .box .box-row {
+    display: table-row;
+    height: 300px;
+    width: 300px;
+}
+
+.container1 .box .box-cell {
+    display: table-cell;
+    height: 300px;
+    width: 300px;
+    padding: 15px;
+}
+
+.container1 .box .box-cell.box1 {
+    background: rgb(119, 119, 170);
+    height: 300px;
+    width: 300px;
+    text-align: center;
+}
+
+.container1 .box .box-cell.box2 {
+    background: lightgreen;
+    text-align: center
+}
+
+.container1 .box .box-cell.box3 {
+    background: rgb(119, 119, 170);
+    text-align: center;
+}
+.container1 .box .box-cell.box4{
+    background: lightgreen;
+    text-align: center;
+}
+.container1 .box .box-cell.box5{
+    background:rgb(119, 119, 170);
+    text-align: center;
+}
+.container2 .box {
+    width: 300px;
+    margin: 50px;
+    display: table;
+}
+
+.container2 .box .box-row {
+    display: table-row;
+}
+
+.container2 .box .box-cell {
+    display: table-cell;
+    height: 30px;
+    width: 300px;
+    padding: 15px;
+}
+
+.container2 .box .box-cell.box1 {
+    background: rgb(119, 119, 170);
+
+    text-align: center;
+}
+
+.container2 .box .box-cell.box2 {
+    background: lightgreen;
+    text-align: center
+}
+
+.container2 .box .box-cell.box3 {
+    background: rgb(119, 119, 170);
+    text-align: center;
+}
+.container2 .box .box-cell.box4{
+    background: lightgreen;
+    text-align: center;
+}
+.container2 .box .box-cell.box5{
+    background:rgb(119, 119, 170);
+    text-align: center;
+}
